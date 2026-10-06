@@ -1,0 +1,1 @@
+// O cliente desse repositório é o Osvaldo e o objetivo do sistema de software que possibilite realizar o gerenciamento dos carros e consertos de uma oficina mecânica.
